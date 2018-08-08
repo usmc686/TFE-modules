@@ -1,2 +1,3 @@
-# TFE-modules
-Testing publishing public modules
+# Demo Animal module
+
+ Just playing around.
